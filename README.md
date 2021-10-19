@@ -4,7 +4,7 @@
 
  
  I am Ben😊😊
- An intermediat in Python <img src="http://clipart-library.com/image_gallery2/Python-Logo-Free-Download-PNG.png" width="94px"> , HTML & CSS
+ An intermediate in Python <img src="http://clipart-library.com/image_gallery2/Python-Logo-Free-Download-PNG.png" width="94px"> , HTML & CSS
   
   
   
