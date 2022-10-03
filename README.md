@@ -10,9 +10,9 @@ Welcome to this happy place!
   <br>Coding Languages Known:</br> <br> >>> Intermediate Level of Python</br>
                             <br> >>> HTML</br>
                              <br>>>> CSS</br>
+                             <br> >>> Learning AI & ML in college </br>
                        
  <h4> MY HOBBIES:
- Gammer on play station 
- i like playing FIFA 2020
+<br> >>> I am an Avid Gammer. I love FIFA, DOOM and many more FPP games </br>
   <h5> Hope to Collabrate with yáll soon :)  </h5>
   
