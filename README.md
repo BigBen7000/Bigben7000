@@ -1,13 +1,21 @@
-<h1> Hello there <img src="https://c.tenor.com/-B81ztWwYAYAAAAi/covid-hi.gif" width="200px"> <h1>
+<h1> Hello there <img src="https://media.tenor.com/jeEg-0Lw_48AAAAj/hi-mickey.gif" width="200px"> <h1>
 
 
-
- 
- I am Ben😊😊
-<h2> An intermediate in Python <img src="http://clipart-library.com/image_gallery2/Python-Logo-Free-Download-PNG.png" width="94px"> , HTML & CSS </h2>
-Learning AI and ML in College
-An Avid Gammer... Loves FIFA, Uncharted, DOOM and a lot more FPP and storymode games
-I love Playing soccer and baseball
-Love making new friends 
-  <h3> Hope to Collabrate with yáll soon :)  </h3>
+Welcome to this happy place!
+ <h2> About me </h2
+<h3> Name: Ben 
   
+  
+ 
+  
+  <br>Coding Languages Known:</br> <br> >>> Intermediate Level of Python</br>
+                            <br> >>> HTML</br>
+                             <br>>>> CSS</br>
+                             <br> >>> Learning AI & ML in college </br>
+                       
+ <h4> MY HOBBIES:
+<br> >>> I am an Avid Gammer. I love FIFA, DOOM and many more FPP games </br>
+  <h5> Hope to Collabrate with yáll soon :)  </h5>
+
+
+
