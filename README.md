@@ -1,17 +1,18 @@
-<h1> Hello there <img src="https://c.tenor.com/-B81ztWwYAYAAAAi/covid-hi.gif" width="200px"> <h1>
+<h1> Hello there <img src="https://media.tenor.com/jeEg-0Lw_48AAAAj/hi-mickey.gif" width="200px"> <h1>
 
-
-
+Welcome to this happy place!
+ <h2> About me </h2
+<h3> Name: Ben 
+  
+  
  
- I am Ben😊😊
-<h2> An intermediate in Python <img src="http://clipart-library.com/image_gallery2/Python-Logo-Free-Download-PNG.png" width="94px"> , HTML & CSS </h2>
   
-  
-  
-  
-  
- I am good at webdevolopment 
+  <br>Coding Languages Known:</br> <br> >>> Intermediate Level of Python</br>
+                            <br> >>> HTML</br>
+                             <br>>>> CSS</br>
+                       
+ <h4> MY HOBBIES:
  Gammer on play station 
  i like playing FIFA 2020
-  <h3> Hope to Collabrate with yáll soon :)  </h3>
+  <h5> Hope to Collabrate with yáll soon :)  </h5>
   
