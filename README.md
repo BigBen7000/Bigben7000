@@ -4,6 +4,7 @@
 Welcome to this happy place!
  <h2> About me </h2
 <h3> Name: Ben 
+Location: Salt Lake City, UT
   
   
  
